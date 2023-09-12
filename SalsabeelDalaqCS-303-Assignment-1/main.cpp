@@ -22,7 +22,7 @@ int main() {
   }
   inputFile.close();
 
-  // check if a certain integer exists in the array if the number is present return the index where the number is present
+  // Q2..check if a certain integer exists in the array if the number is present return the index where the number is present
   cout << "Enter a number to check if it exists in the array: ";
   cin >> num;
   try {
