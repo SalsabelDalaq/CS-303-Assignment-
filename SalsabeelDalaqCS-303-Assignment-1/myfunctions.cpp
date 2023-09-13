@@ -1,4 +1,3 @@
-// myfunctions.cpp
 #include "myfunctions.h"
 
 bool check(int arr[], int size, int num) {
